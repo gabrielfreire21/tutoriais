@@ -20,7 +20,7 @@ Insira o seguinte código antes do fechamento da tag `<body>`:
 
 
 
-### 2. Armazenar o script do GA no servidor local e criar um *cron* diário (atualizar a biblioteca diarimente). Veja o tutorial no link: [http://diywpblog.com/leverage-browser-cache-optimize-google-analytics/](http://diywpblog.com/leverage-browser-cache-optimize-google-analytics/)
+### 2. Armazenar o script do GA no servidor local e criar um *cron* diário (atualizar a biblioteca diarimente). Veja o tutorial nesse [link](http://diywpblog.com/leverage-browser-cache-optimize-google-analytics/).
 
 
 
