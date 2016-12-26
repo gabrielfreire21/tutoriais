@@ -36,3 +36,7 @@ Ou em js...
             // your analytics code here
         }
 
+
+
+
+Fonte: [stackoverflow](http://stackoverflow.com/questions/29162881/pagespeed-insights-99-100-because-of-google-analytics-how-can-i-cache-ga)
