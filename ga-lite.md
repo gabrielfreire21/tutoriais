@@ -10,7 +10,7 @@ Há 3 soluções viáveis para este problema:
 
 ### 1. Inserir biblioteca [GA-lite](https://github.com/jehna/ga-lite) (recomendado)        
 
-Insira o seguinte código antes do fechamento da tag ´body´:            
+Insira o seguinte código antes do fechamento da tag `<body>`:            
     
         <script src="https://cdn.jsdelivr.net/ga-lite/latest/ga-lite.min.js" async></script>
         <script>
