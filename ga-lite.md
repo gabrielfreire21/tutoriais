@@ -39,4 +39,4 @@ Ou em js...
 
 
 
-Fonte: [stackoverflow](http://stackoverflow.com/questions/29162881/pagespeed-insights-99-100-because-of-google-analytics-how-can-i-cache-ga)
+*Fonte: [stackoverflow](http://stackoverflow.com/questions/29162881/pagespeed-insights-99-100-because-of-google-analytics-how-can-i-cache-ga)*
