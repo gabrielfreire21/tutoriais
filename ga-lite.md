@@ -3,14 +3,14 @@
 GA-lite
 ---
 
-Ao inserir o Google Analytics no website, não é possível conseguir uma pontuação 100/100 no Pagespeed do Google.
+Ao inserir o Google Analytics no website, não é possível conseguir uma pontuação 100/100 no [Pagespeed](https://developers.google.com/speed/pagespeed/) do Google.
 
 Há 3 soluções viáveis para este problema:
 
 
 ### 1. Inserir biblioteca [GA-lite](https://github.com/jehna/ga-lite) (recomendado)        
 
-Insira o seguinte código antes do fechamento da tag ´<body>´:            
+Insira o seguinte código antes do fechamento da tag <body>:            
     
         <script src="https://cdn.jsdelivr.net/ga-lite/latest/ga-lite.min.js" async></script>
         <script>
@@ -22,7 +22,7 @@ Insira o seguinte código antes do fechamento da tag ´<body>´:
 
 ### 2. Armazenar o script do GA no servidor local e criar um *cron* diário (atualizar a biblioteca diarimente). Veja o tutorial no link:
 
-    `http://diywpblog.com/leverage-browser-cache-optimize-google-analytics/`
+[http://diywpblog.com/leverage-browser-cache-optimize-google-analytics/](http://diywpblog.com/leverage-browser-cache-optimize-google-analytics/)
 
 
 
